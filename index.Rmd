@@ -68,6 +68,7 @@ legend("topright", inset = 0.025,legend=bquote(atop(mu==.(round(mean(d))),
 --- 
 ## App features
 
+<br>
 The main features of the app are mentioned below.
    - View interactive plots for different probabilistic distribution functions.
    - Supports both discrete and continuous functions.
